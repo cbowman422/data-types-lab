@@ -55,15 +55,40 @@ console.log(simpleMath*100);
 // let numberPlay1 = 1;
 
 
+
 /*
  * Prompt 5:
  *
  * Define variable favoriteAdjective and assign it a string of your favorite
  * adjective. Define variable favoriteFood and assign it a string of your
- * favorite food. Then create a variable called hackerName and use string
- * interpolation to combine the first 2 variables into your new hacker name.
+ * favorite food. Then define variable hackerName and use string interpolation
+ * to combine the first 2 variables into your new hacker name.
  */
 
-let favoriteAdjective;
-let favoriteFood;
-let hackerName;
+// let favoriteAdjective;
+// let favoriteFood;
+// let hackerName;
+
+
+
+/*
+ * Prompt 8:
+ *
+ * Write a solution to the following sub-prompt
+ */
+ 
+//  A) A loose-equality (==) statement that is true.
+//  B) A strict equality (===) statement that is true.
+//  C) A less than (<) statement that is false.
+//  D) A greater than (>) statement that is false.
+//  E) A less than or equal (<=) that is true.
+//  F) A greater than or equal (>=) that is false.
+//  G) A strict unequality (!==) to create a statement that is true
+ 
+let operatorsA = 9 == "9";
+let operatorsB;
+let operatorsC;
+let operatorsD;
+let operatorsE;
+let operatorsF;
+let operatorsG;
