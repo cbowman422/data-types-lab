@@ -49,7 +49,21 @@ console.log(simpleMath*100);
  * order
  */
 
-let numberPlay2 = 2;
-let numberPlay0 = 0;
-let numberPlay3 = 3;
-let numberPlay1 = 1;
+// let numberPlay2 = 2;
+// let numberPlay0 = 0;
+// let numberPlay3 = 3;
+// let numberPlay1 = 1;
+
+
+/*
+ * Prompt 5:
+ *
+ * Define variable favoriteAdjective and assign it a string of your favorite
+ * adjective. Define variable favoriteFood and assign it a string of your
+ * favorite food. Then create a variable called hackerName and use string
+ * interpolation to combine the first 2 variables into your new hacker name.
+ */
+
+let favoriteAdjective;
+let favoriteFood;
+let hackerName;
