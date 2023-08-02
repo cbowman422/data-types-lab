@@ -30,24 +30,26 @@ console.log(simpleMath*100);
 /*
  * Prompt 3:
  *
- * Take the following given variables, and using string concatenation, return
- * them as 4 different words.
+ * Take the following given variables containing string values, and using string
+ * concatenation, return 4 different words.
  */
 
-// let wordPlayR = "r"
-// let wordPlayE = "e"
-// let wordPlayA = "a"
-// let wordPlayD = "d"
+// let wordPlayR = "r";
+// let wordPlayE = "e";
+// let wordPlayA = "a";
+// let wordPlayD = "d";
 
 
 
 /*
  * Prompt 4:
  *
- * Set the given variable's value to a number data type. Then on the next line
- * use string concatenation to display your variable with a new string. This new
- * string can either be in the console.log() or you can set a new variable to
- * your string concatenation.
+ * Take the following given variables containing number values, and using string
+ * concatenation, return the numbers in descending order as well as ascending 
+ * order
  */
 
-// let numberString;
+let numberPlay2 = 2;
+let numberPlay0 = 0;
+let numberPlay3 = 3;
+let numberPlay1 = 1;
