@@ -100,7 +100,7 @@ console.log(simpleMath*100);
 /*
  * Prompt 7:
  *
- * Given the variables, replace the ** in each sub-prompt so that the 
+ * Given the variables, replace the -- in each sub-prompt so that the 
  * statement evaluates to true. The first one is done for you.
  */
 
@@ -110,26 +110,40 @@ console.log(simpleMath*100);
 // let d = 13;
 // let e = "fifteen";
 
-// // b ** a;
+// // b -- a;
 // let operators1 = a == b;
 
-// // c ** d;
+// // c -- d;
 // let operators2;
 
-// // "ten" ** "twelve";
+// // "ten" -- "twelve";
 // let operators3;
 
-// // d ** c ** b;
+// // d -- c -- b;
 // let operators4;
 
-// // a ** b ** b;
+// // a -- b -- b;
 // let operators5;
 
-// // e ** "sixteen";
+// // e -- "sixteen";
 // let operators6;
 
-// // 1 ** "one";
+// // 1 -- "one";
 // let operators7;
 
+
+
+/*
+ * Prompt 8:
+ *
+ * Arrange the following variables so that the returned values are in 
+ * ascending order.
+ */
+
+let tern1 = true? 7:6;
+let tern2 = 2? 3:9;
+let tern3 = null? 1:2;
+let tern4 = 5? 6:7;
+let tern5 = false? 7:8;
 
 
