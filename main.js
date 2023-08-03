@@ -1,4 +1,6 @@
-// Data Types Lab
+/* 
+* Data Types Lab 
+*/
 
 /*
  * Prompt 1:
@@ -26,6 +28,7 @@ console.log(simpleMath*100);
  * with the respective data type (number, boolean, and string). Use 
  * typeof in your console.log() to double check your solutions.
  */
+
 
 
 /*
@@ -158,6 +161,7 @@ let tern5 = false? 7:9;
 let tern6 = "string" ? 1:8;
 
 
+
 /*
  * Prompt 9:
  *
@@ -206,7 +210,6 @@ const array5 = [1,3,5,23,76,4,79,56,27,2,6];
 const tyrannosaurus = ["Tyrannosaurus", 12, "land"];
 const pterodactyl = ["Pterodactyl", 18, "air"];
 const theropods = ["Theropoda", 8, "land"];
-
 
 // The Tyrannosaurus feels jelous about being 12 feet tall, while
 // the Pterodactyl is 18. The Tyrannosaurus stands on their tip toes now,
