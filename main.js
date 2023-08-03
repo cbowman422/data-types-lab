@@ -196,3 +196,26 @@ let retrieve4 = array4;
 const array5 = [1,3,5,23,76,4,79,56,27,2,6];
 
 
+
+/*
+ * Prompt 11:
+ *
+ * Use the arrays to answer the following sub-prompts.
+ */
+
+const tyrannosaurus = ["Tyrannosaurus", 12, "land"];
+const pterodactyl = ["Pterodactyl", 18, "air"];
+const theropods = ["Theropoda", 8, "land"];
+
+
+// The Tyrannosaurus feels jelous about being 12 feet tall, while
+// the Pterodactyl is 18. The Tyrannosaurus stands on their tip toes now,
+// change 12 to 13 to reflect the difference.
+
+// Change tyrannosaurus name from "Tyrannosaurus" to "Rex".
+
+// The Pterodactyl notices the Tyrannosaurus and decides to stop traveling
+// by air to show the Tyrannosaurus they are still 18 feet tell. Remove
+// air from the pterodactyl array and replace it with "land".
+
+// Remove "land" from theropods array and add "water".
