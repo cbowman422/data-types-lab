@@ -2,9 +2,10 @@
 /*
  * Prompt 1:
  *
- * Set the variable simpleMath to a number. In the console.log() multiply that
- * variable by a new number. Do this for division, addition, subtraction and 
- * division remainder well using seperate lines and console.logs() for each.
+ * Set the variable simpleMath to a number. With a new variable or in the 
+ * console.log() multiply that variable by a new number. Do this for 
+ * division, addition, subtraction and "division remainder" well using 
+ * seperate lines for each.
  */
 
 // let simpleMath;
@@ -19,55 +20,64 @@ console.log(simpleMath*100);
 /*
  * Prompt 2:
  *
- * Declare 3 variables using the variable names numberVariable, 
- * booleanVariable, and stringVariable. Set each variable to values 
+ * Declare 3 variables using the variable names numberType, 
+ * booleanType, and stringType. Set each variable to values 
  * with the respective data type (number, boolean, and string). Use 
  * typeof in your console.log() to double check your solutions.
  */
 
 
-
 /*
  * Prompt 3:
  *
- * Take the following given variables containing string values, and using string
- * concatenation, return 4 different words.
+ * Take the following given variables containing string values, and using the 
+ * + operator combine 3 unique words. String concatenation simply means to 
+ * add one or more strings to another string and the + operator is a fast
+ * method.
  */
 
-// let wordPlayR = "r";
-// let wordPlayE = "e";
-// let wordPlayA = "a";
-// let wordPlayD = "d";
+// let valR = "r";
+// let valE = "e";
+// let valA = "a";
+// let valD = "d";
 
 
 
 /*
  * Prompt 4:
  *
- * Take the following given variables containing number values, and using string
- * concatenation, return the numbers in descending order as well as ascending 
- * order
+ * With the following given variables containing number values, and using the 
+ * + operator, return all of the variables together.
  */
 
-// let numberPlay2 = 2;
-// let numberPlay0 = 0;
-// let numberPlay3 = 3;
-// let numberPlay1 = 1;
+// let num0 = 0;
+// let num1 = 1;
+// let num2 = 2;
+// let num3 = 3;
 
 
 
 /*
  * Prompt 5:
  *
- * Define variable favoriteAdjective and assign it a string of your favorite
- * adjective. Define variable favoriteFood and assign it a string of your
- * favorite food. Then define variable hackerName and use string interpolation
- * to combine the first 2 variables into your new hacker name.
+ * Define variable favAdjective and assign it a string of your favorite
+ * adjective. Define variable favFood and assign it a string of your
+ * favorite food. Then define variable hackerName and assign a string with 
+ * your hacker name and an introduction using string interpolation. Your hacker
+ * name should be the combination of your favorite adjective and your
+ * favorite food. String interpolation allows you to combine strings using
+ * template literals, which can make your code easier to read.
  */
 
-// let favoriteAdjective;
-// let favoriteFood;
+// let favAdjective;
+// let favFood;
 // let hackerName;
+
+/*  // Example Answer => 
+  console.log(hackerName);
+  "Hello my hacker name is smooth quesadilla"
+*/
+
 
 
 
@@ -77,13 +87,13 @@ console.log(simpleMath*100);
  * Write solutions to the following sub-prompts. The first one is done for you.
  */
  
-//  A) A strict equality (===) statement that is true.
-//  B) A loose-equality (==) statement that is true.
+//  A) A strict equal (===) statement that is true.
+//  B) A loose-equal (==) statement that is true.
 //  C) A less than (<) statement that is false.
 //  D) A greater than (>) statement that is false.
 //  E) A less than or equal (<=) that is true.
 //  F) A greater than or equal (>=) that is false.
-//  G) A strict unequality (!==) to create a statement that is true.
+//  G) A strict unequal (!==) to create a statement that is true.
  
 // let comparison1 = "strict" === "strict";
 // let comparison2;
@@ -136,14 +146,15 @@ console.log(simpleMath*100);
 /*
  * Prompt 8:
  *
- * Arrange the following variables so that the returned values are in 
+ * Arrange the following variables so that the ternary values are in 
  * ascending order.
  */
 
 let tern1 = true? 7:6;
-let tern2 = 2? 3:9;
+let tern2 = "false"? 3:9;
 let tern3 = null? 1:2;
 let tern4 = 5? 6:7;
-let tern5 = false? 7:8;
+let tern5 = false? 7:9;
+let tern6 = "string" ? 1:8;
 
-
+console.log(tern1, tern2, tern3, tern4, tern5, tern6)
