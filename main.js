@@ -3,8 +3,8 @@
  * Prompt 1:
  *
  * Set the variable simpleMath to a number. In the console.log() multiply that
- * variable by a new number. Do this for division, addition, and subtraction
- * as well using seperate lines and console.logs() for each.
+ * variable by a new number. Do this for division, addition, subtraction and 
+ * division remainder well using seperate lines and console.logs() for each.
  */
 
 // let simpleMath;
@@ -19,10 +19,10 @@ console.log(simpleMath*100);
 /*
  * Prompt 2:
  *
- * Declare 3 variables using the variable names numberVariable, booleanVariable,
- * and stringVariable. Set each variable to values with the respective data
- * type (number, boolean, and string). Use typeof in your console.log() to 
- * double check your solutions.
+ * Declare 3 variables using the variable names numberVariable, 
+ * booleanVariable, and stringVariable. Set each variable to values 
+ * with the respective data type (number, boolean, and string). Use 
+ * typeof in your console.log() to double check your solutions.
  */
 
 
@@ -72,23 +72,64 @@ console.log(simpleMath*100);
 
 
 /*
- * Prompt 8:
+ * Prompt 6:
  *
- * Write a solution to the following sub-prompt
+ * Write solutions to the following sub-prompts. The first one is done for you.
  */
  
-//  A) A loose-equality (==) statement that is true.
-//  B) A strict equality (===) statement that is true.
+//  A) A strict equality (===) statement that is true.
+//  B) A loose-equality (==) statement that is true.
 //  C) A less than (<) statement that is false.
 //  D) A greater than (>) statement that is false.
 //  E) A less than or equal (<=) that is true.
 //  F) A greater than or equal (>=) that is false.
-//  G) A strict unequality (!==) to create a statement that is true
+//  G) A strict unequality (!==) to create a statement that is true.
  
-let operatorsA = 9 == "9";
-let operatorsB;
-let operatorsC;
-let operatorsD;
-let operatorsE;
-let operatorsF;
-let operatorsG;
+// let comparison1 = "strict" === "strict";
+// let comparison2;
+// let comparison3;
+// let comparison4;
+// let comparison5;
+// let comparison6;
+// let comparison7;
+
+//console.log(comparison1)
+
+
+
+/*
+ * Prompt 7:
+ *
+ * Given the variables, replace the ** in each sub-prompt so that the 
+ * statement evaluates to true. The first one is done for you.
+ */
+
+// let a = 7;
+// let b = 9;
+// let c = 11;
+// let d = 13;
+// let e = "fifteen";
+
+// // b ** a;
+// let operators1 = a == b;
+
+// // c ** d;
+// let operators2;
+
+// // "ten" ** "twelve";
+// let operators3;
+
+// // d ** c ** b;
+// let operators4;
+
+// // a ** b ** b;
+// let operators5;
+
+// // e ** "sixteen";
+// let operators6;
+
+// // 1 ** "one";
+// let operators7;
+
+
+
