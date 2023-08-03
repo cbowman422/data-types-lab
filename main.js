@@ -183,3 +183,16 @@ let retrieve1 = array1[1];
 let retrieve2 = array2;
 let retrieve3 = array3;
 let retrieve4 = array4;
+
+
+
+/*
+ * Prompt 10:
+ *
+ * Use the length property, of an array, to get the length and the last
+ * value of the following array.
+ */
+
+const array5 = [1,3,5,23,76,4,79,56,27,2,6];
+
+
