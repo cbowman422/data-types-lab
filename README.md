@@ -10,4 +10,5 @@
 - Copy the following prompt into your `main.js` file, add your solution and then continue to the next prompt.
 - Test your solution by logging your variables through the console - `console.log(Variables)` and running `$ node main.js` in the terminal.
 
-[Link to Prompts](main.js)
+## Link to Prompt Questions
+[Prompts at main.js](main.js)
