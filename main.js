@@ -51,7 +51,7 @@ let valD = "d";
  * Prompt 4:
  *
  * With the following given variables containing number values, and using the 
- * + operator, return all of the variables together.
+ * + operator, add all of the variables together.
  */
 
 let num0 = 0;
@@ -218,7 +218,7 @@ const theropods = ["Theropoda", 8, "land"];
 // Change tyrannosaurus name from "Tyrannosaurus" to "Rex".
 
 // The Pterodactyl notices the Tyrannosaurus and decides to stop traveling
-// by air to show the Tyrannosaurus they are still 18 feet tell. Remove
+// by air to show the Tyrannosaurus they are still 18 feet tall. Remove
 // air from the pterodactyl array and replace it with "land".
 
 // Remove "land" from theropods array and add "water".
